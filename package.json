@@ -1,0 +1,27 @@
+{
+    "name": "readexcel",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --coverage",
+        "test:watch": "jest --watch",
+        "dev": "npx ts-node src/main.ts"
+    },
+    "author": "jorlyn ramos",
+    "license": "ISC",
+    "dependencies": {
+        "@types/jest": "^29.2.3",
+        "excel4node": "^1.8.0",
+        "fastify": "^4.10.0",
+        "http": "^0.0.1-security",
+        "jest": "^29.3.1",
+        "path": "^0.12.7",
+        "read-excel-file": "^5.5.3",
+        "sqlite3": "^5.1.2",
+        "ts-jest": "^29.0.3",
+        "ts-node": "^10.9.1",
+        "typescript": "^4.9.3",
+        "write-excel-file": "^1.4.15"
+    }
+}

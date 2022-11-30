@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1668565196598" clover="3.2.0">
+  <project timestamp="1668565196600" name="All files">
+    <metrics statements="13" coveredstatements="10" conditionals="3" coveredconditionals="0" methods="3" coveredmethods="2" elements="19" coveredelements="12" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="main.ts" path="/usr/src/app/src/main.ts">
+      <metrics statements="13" coveredstatements="10" conditionals="3" coveredconditionals="0" methods="3" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="17" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="19" count="0" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="41" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
